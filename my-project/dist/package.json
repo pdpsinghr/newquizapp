@@ -1,0 +1,10 @@
+{
+ "name": "quizapp",
+ "version": "1.0.0",
+ "description": "QUIzapp",
+ "author": "Awesome Author",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
