@@ -1,0 +1,79 @@
+{
+  "title": "What kind of person you are?",
+  "questions": [{
+    "text": "How would you describe your personality?",
+    "responses": [{
+      "text": "Im serious and dark",
+      "value": "Nice Person"
+    },
+    {
+      "text": "Arrogant, but charming",
+      "value": "Awesome person"
+    },
+    {
+      "text": "Fun and easy going",
+      "value": "Cool person"
+    }]
+  },
+  {
+    "text": "Why did you want to become a superhero?",
+    "responses": [{
+      "text": "For the thrills",
+      "value": "Cool person"
+    },
+    {
+      "text": "For justice",
+      "value": "Nice Person"
+    },
+    {
+      "text": "For popularity",
+      "value": "Awesome person"
+    }]
+  },
+  {
+    "text": "Who would you most hang around with?",
+    "responses": [{
+      "text": "Wonder Woman",
+      "value": "Awesome person"
+    },
+    {
+      "text": "Green Arrow",
+      "value": "Cool person"
+    },
+    {
+      "text": "Robin",
+      "value": "Nice Person"
+    }]
+  },
+  {
+    "text": "What's your favourite colour?",
+    "responses": [{
+      "text": "Black",
+      "value": "Nice Person"
+    },
+    {
+      "text": "Red",
+      "value": "Cool person"
+    },
+    {
+      "text": "Blue",
+      "value": "Awesome person"
+    }]
+  },
+  {
+    "text": "When do you help people?",
+    "responses": [{
+      "text": "Every chance I can",
+      "value": "Cool person"
+    },
+    {
+      "text": "At night",
+      "value": "Nice Person"
+    },
+    {
+      "text": "When they need me to",
+      "value": "Awesome person"
+    }]
+  }
+  ]
+}
